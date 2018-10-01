@@ -1,2 +1,2 @@
 # GetFreshDB
-DATABSE
+DATABASE
